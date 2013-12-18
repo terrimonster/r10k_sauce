@@ -1,3 +1,3 @@
-class r10k-sauce {
+class r10k_sauce {
 
 }
